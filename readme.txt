@@ -1,0 +1,1 @@
+It is free version for testing smartgit
