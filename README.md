@@ -1,0 +1,2 @@
+# MyMfcPrj
+personal MFC projects.
