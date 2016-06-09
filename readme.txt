@@ -1,1 +1,1 @@
-It is free version for testing smartgit
+It is free version for testing smartgit¡£
